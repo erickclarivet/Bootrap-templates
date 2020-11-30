@@ -1,0 +1,11 @@
+/****
+** GENERAL
+****/
+
+@media all and (max-width: 600px) {
+    header img { width: 100%; }
+}
+
+/****
+** END GENERAL
+****/
